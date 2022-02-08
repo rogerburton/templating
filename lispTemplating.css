@@ -1,0 +1,15 @@
+.pie {
+	width: 180px;
+	height: 180px;
+	display: inline-block;
+	margin: 10px;
+}
+
+.pie svg {
+	border-radius: 50%;
+  transform: rotate(-90deg);
+}
+
+.pie circle {
+	fill: transparent;
+}
